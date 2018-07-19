@@ -1,0 +1,25 @@
+.listName {
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+ul {
+    margin: 0;
+    margin-bottom: 0px;
+    padding: 0;
+    list-style-type: none;
+}
+
+.ToDoList {
+    border: 1px solid black;
+}
+
+#Kevin {
+    background: #aad5ff;
+    width: 50%;
+}
+
+#Britt {
+    background: pink;
+    width: 50%;
+}

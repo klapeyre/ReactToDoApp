@@ -1,0 +1,16 @@
+.AddToDo {
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.Kevin {
+    background: #aad5ff;
+}
+
+.Britt {
+    background: pink;
+}
+
+.datepicker {
+    display: flex;
+}
