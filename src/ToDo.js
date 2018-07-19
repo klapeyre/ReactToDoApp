@@ -20,7 +20,6 @@ class ToDo extends Component {
     render() {
         let todo_style = this.props.complete ? "complete" : "regular";
         let date = this.props.date;
-        console.log("Todo date: " + date);
         return (
             <li className="ToDo">
                 <div className={todo_style}>
